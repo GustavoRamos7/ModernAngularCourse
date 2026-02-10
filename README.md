@@ -22,4 +22,4 @@ Além do Angular, o repositório também documenta conhecimentos complementares 
 Este projeto faz parte da minha **transição ativa da área de Suporte de Sistemas para Desenvolvimento de Software**, servindo tanto como material de estudo quanto como histórico da minha evolução no desenvolvimento frontend moderno.
 
 📺 Curso de referência:  
-[Modern Angular – Loiane Groner](https://www.youtube.com/watch?v=E9Q1yn3h9d0)
+[Modern Angular – Loiane Groner](https://www.youtube.com/watch?v=cMi3mNWjtyY&list=PLGxZ4Rq3BOBqJfR254ZMuBfFRMeyr162U)
