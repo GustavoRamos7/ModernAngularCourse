@@ -1,59 +1,25 @@
-# EstudoAngular
+## 📘 Modern Angular Course — Loiane Groner
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 21.1.3.
+Este repositório contém meus **estudos práticos em Angular** acompanhando o curso **Modern Angular** da **Loiane Groner**, uma das maiores referências em Angular no Brasil.
 
-## Development server
+O objetivo deste projeto é **construir uma base sólida no Angular moderno**, entendendo não apenas *como fazer*, mas **por que as coisas são feitas dessa forma**, seguindo as boas práticas recomendadas pela documentação oficial do framework.
 
-To start a local development server, run:
+Os estudos abordam conceitos fundamentais e avançados, como:
+- Estrutura de projetos Angular
+- Uso do Angular CLI
+- Criação e organização de componentes
+- Arquivos `.spec.ts` e testes
+- Boas práticas de nomenclatura e organização
+- Separação de responsabilidades
+- Entendimento de `public`, `private` e `protected`
+- Padrões recomendados pelo **Angular Style Guide**
 
-```bash
-ng serve
-```
+Além do Angular, o repositório também documenta conhecimentos complementares utilizados durante o aprendizado, como:
+- **Docker**, para entendimento de ambientes e containers
+- Comandos essenciais de terminal
+- Integração com **Node.js** e **npm**
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+Este projeto faz parte da minha **transição ativa da área de Suporte de Sistemas para Desenvolvimento de Software**, servindo tanto como material de estudo quanto como histórico da minha evolução no desenvolvimento frontend moderno.
 
-## Code scaffolding
-
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
-
-```bash
-ng generate component component-name
-```
-
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
-
-```bash
-ng generate --help
-```
-
-## Building
-
-To build the project run:
-
-```bash
-ng build
-```
-
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
-
-## Running unit tests
-
-To execute unit tests with the [Vitest](https://vitest.dev/) test runner, use the following command:
-
-```bash
-ng test
-```
-
-## Running end-to-end tests
-
-For end-to-end (e2e) testing, run:
-
-```bash
-ng e2e
-```
-
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
-
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+📺 Curso de referência:  
+[Modern Angular – Loiane Groner](https://www.youtube.com/watch?v=E9Q1yn3h9d0)
