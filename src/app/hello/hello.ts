@@ -12,4 +12,11 @@ export class Hello {
 
     protected title = 'Welcome to Modern Angular!';
 
+    protected isDisable = false;
+
+    onClick() {
+        console.log('Button clicked!');
+        this.isDisable = !this.isDisable;
+    }
+
 }
