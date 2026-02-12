@@ -1,5 +1,6 @@
-import { Component } from '@angular/core';
+import { Component, signal } from '@angular/core';
 import { RouterOutlet } from "@angular/router";
+import { count } from 'rxjs';
 
 @Component({
   selector: 'app-hello',
@@ -18,5 +19,7 @@ export class Hello {
         console.log('Button clicked!');
         this.isDisable = !this.isDisable;
     }
+
+    protected count = signal(0);
 
 }
