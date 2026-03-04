@@ -1,4 +1,4 @@
-import { Component, computed, signal } from '@angular/core';
+import { Component, computed, signal, effect } from '@angular/core';
 
 @Component({
   selector: 'app-hello',
@@ -21,6 +21,10 @@ export class Hello {
     protected count = signal(0);
 
     protected doubleCount = computed(() : any =>  this.count()*2);
+
+    private readonly countLog = effect(() : void =>  {
+      console.log('Count changed: ', this.count());
+    });
 
     // getDoubleCount() {
     //   console.log('evento do método de Contagem dupla chamado');
